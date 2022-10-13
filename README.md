@@ -4,6 +4,6 @@ The graphical user interface will allow draw some digits. The recognition result
 
 
 <p float="left">
- <img src="https://user-images.githubusercontent.com/114313278/195559672-a51a4c6e-74a6-42ec-8c8d-0798dd344950.png" width="100">
- <img src="https://user-images.githubusercontent.com/114313278/195559672-a51a4c6e-74a6-42ec-8c8d-0798dd344950.png" width="100">
+ <img src="https://user-images.githubusercontent.com/114313278/195559672-a51a4c6e-74a6-42ec-8c8d-0798dd344950.png" width="500">
+ <img src="https://user-images.githubusercontent.com/114313278/195566480-3fb23f11-0063-45ca-b801-04e97711f491.png" width="500">
 </p>
